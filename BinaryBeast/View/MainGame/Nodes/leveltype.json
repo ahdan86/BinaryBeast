@@ -1,0 +1,32 @@
+[
+    {
+        "name": "level1",
+        "max_integer": 1,
+        "max_speed": 5,
+        "minimum_score": 60,
+    },
+    {
+        "name": "level2",
+        "max_integer": 3,
+        "max_speed": 10,
+        "minimum_score": 60,
+    },
+    {
+        "name": "level3",
+        "max_integer": 7,
+        "max_speed": 15,
+        "minimum_score": 60,
+    },
+    {
+        "name": "level4",
+        "max_integer": 15,
+        "max_speed": 20,
+        "minimum_score": 60,
+    },
+    {
+        "name": "level5",
+        "max_integer": 115,
+        "max_speed": 20,
+        "minimum_score": 60,
+    },
+]
